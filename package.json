@@ -1,14 +1,14 @@
 {
-  "name": "baileys",
+  "name": "@rapixzy/baileys",
   "version": "6.7.17",
   "description": "WhatsApp API x Button by PL",
   "keywords": [
     "whatsapp",
     "automation"
   ],
-  "homepage": "https://github.com/seiren-primrose/PL-Baileys/",
+  "homepage": "https://github.com/ZatromHub/bail1/",
   "repository": {
-    "url": "git@github.com:seiren-primrose/PL-Baileys.git"
+    "url": "git@github.com:ZatromHub/bail1.git"
   },
   "license": "MIT",
   "author": "Rajeh Taher",
